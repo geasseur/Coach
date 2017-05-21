@@ -10,6 +10,14 @@
   margin-top: 75px;
 }
 
-#mainContact{
+#mainContact, #mainTarif{
   margin-top:75px;
+}
+
+tr>td{
+  text-align: center;
+}
+
+#mainTarif h2{
+  text-align: center;
 }
